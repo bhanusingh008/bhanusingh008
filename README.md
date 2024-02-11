@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Currently working as Full Stack Developer at Vatic AI.<br><br>Here to showcase my work and contribute.<br><br>Ask me about Java, Spring Boot, <br>React.js, JavaScript, Open Source Contributions.
+Currently working as Full Stack Developer at Vatic AI.<br><br>Here to showcase my work and contribute.<br><br>Ask me about Java, Spring Boot,Python <br>React.js, JavaScript, Open Source Contributions.
 
 
 ## 🌐 Socials:
