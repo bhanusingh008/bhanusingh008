@@ -12,7 +12,6 @@ Been coding for last 2+ years, built a loads of softwares and loving it. Special
 * 🚀  I'm currently working on [Afford-X](http://www.afford-x.com)
 * 🧠  I'm learning mobile apps using react native
 * 🤝  I'm open to collaborating on anything that has or can have some impact using softwares.
-* ⚡  Friends call me batman.
 
 <a href="https://www.x.com/whybhxnusingh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/whybhxnusingh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
